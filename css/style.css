@@ -9,7 +9,10 @@ h1,h2,h3{
 }
 
 
-
 h1 + p {
     color: purple;
   }
+
+all p[
+    margin: .5em 0;
+]

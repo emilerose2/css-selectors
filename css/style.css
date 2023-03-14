@@ -35,5 +35,8 @@ all h2[
     border-bottom: 2px solid #000;
 ]    
     
+header > p {
+    font-size: 1.25rem;
+}
     
    
